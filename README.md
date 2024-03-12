@@ -19,13 +19,7 @@ To use this application, ensure you have Python installed on your computer. Clon
 3. Activate the virtual environment. 
 4. Run the application by executing python app.py
 
-*#IMPORTANT#*: Do not change the structure of the files:
-final_project:
-+src
-  +images
-  +helpers.py
-  +initial_setup.py
-+app.py
+IMPORTANT: Do not change the structure of the files
 
 ## Navigating the Application
 ***Initial Setup:*** Upon launching, the application displays a world map. Select a continent to view countries within that region.
